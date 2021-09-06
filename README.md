@@ -123,7 +123,7 @@
 
 **기간**: 21.07.05 ~ 21.08.20
 
-[Repository](https://github.com/dkdltmais8/Mainproject_WebRTC)  |  [PPT](https://github.com/dkdltmais8/Mainproject_WebRTC/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/%EC%82%B0%EC%B6%9C%EB%AC%BC/B105_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pptx)  |  UCC(1등)
+[Repository](https://github.com/dkdltmais8/Mainproject_WebRTC)  |  [PPT](https://github.com/dkdltmais8/Mainproject_WebRTC/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/%EC%82%B0%EC%B6%9C%EB%AC%BC/B105_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pptx)  |  [UCC(1등)](https://drive.google.com/drive/folders/1QPI3eMmq0VsoNHjY3IHG0TNz6AHxLsPY?usp=sharing)
 
 **역할**
 
