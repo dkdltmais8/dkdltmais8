@@ -4,7 +4,7 @@
 
 # 💁🏻 About Me
 
-## [포트폴리오 주소](https://www.notion.so/d1efb0d7ffca4da69d86b6f27d88dc30)
+## [포트폴리오 주소](https://dkdltamis9.notion.site/d1efb0d7ffca4da69d86b6f27d88dc30)
 
 ---
 
