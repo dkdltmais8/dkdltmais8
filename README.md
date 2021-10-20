@@ -146,7 +146,7 @@ Vue, Node.js, Spring, MySQL, Unity, C#, WebRTC,
 
 **기간**: 21.08.30 ~ 21.10.08
 
-[Repository](https://github.com/dkdltmais8/Mainproject_Bigdata)  |  [PP](https://github.com/dkdltmais8/Mainproject_WebRTC/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/%EC%82%B0%EC%B6%9C%EB%AC%BC/B105_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pptx)[T](https://github.com/dkdltmais8/Mainproject_Bigdata/blob/deploy/%EC%82%B0%EC%B6%9C%EB%AC%BC/B305%20SUB2%20%EB%B0%9C%ED%91%9C.pdf)  |  [UCC](https://drive.google.com/file/d/1zNZzu6GPSkzFELxWPHlHQCw3tBPY2rXe/view?usp=sharing)
+[Repository](https://github.com/dkdltmais8/Mainproject_Bigdata)  |  [PPT](https://github.com/dkdltmais8/Mainproject_Bigdata/blob/deploy/%EC%82%B0%EC%B6%9C%EB%AC%BC/B305%20SUB2%20%EB%B0%9C%ED%91%9C.pdf)  |  [UCC](https://drive.google.com/file/d/1zNZzu6GPSkzFELxWPHlHQCw3tBPY2rXe/view?usp=sharing)
 
 **역할**
 
