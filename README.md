@@ -38,7 +38,6 @@
 
 - **HTML5, CSS3, JS(ES6)**
 - **Vue.js**
-- **React**
 
 ## Backend
 
@@ -170,7 +169,7 @@ MBTI를 활용한 추천 서비스를 제공
 
 React, Django, MySQL, Material-UI, 
 
-Scikit-learn 
+Scikit-learn, recharts
 
 ✅ 주요 기능: 사용자의 설문 결과를 토대로 영화를 추천해주고 MBTI에 맞게 영화를 추천
 
