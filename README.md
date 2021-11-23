@@ -29,6 +29,7 @@
 - **Python**
 - **JavaScript**
 - **SQL**
+- **Java**
 
 ## Planning
 
@@ -50,7 +51,7 @@
 - **Unity**
 - **Postman**
 - **Typora**
-- **IDE -** VsCode, Pycharm, Visual Studio
+- **IDE -** VsCode, Pycharm, Eclipse
 
 ## Other experiences
 
@@ -70,7 +71,7 @@
 
 **기간**: 21.05.20 ~ 21.05.28
 
-[Repository](https://github.com/dkdltmais8/Project)  |  [PPT](https://github.com/dkdltmais8/Project/blob/master/1%ED%95%99%EA%B8%B0%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%ED%8F%AC%ED%8F%B4.pptx)
+[PPT](https://drive.google.com/drive/folders/1joAHOYn29B6grMm19F_YmHNqVx8mb3Vl?usp=sharing)
 
 **역할**
 
@@ -82,9 +83,11 @@
 
 추가 기능 개선 ( 조회수, 댓글 개수)
 
-**내용**:
+**내용**
 
 삼성청년SW아카데미 1학기 동안 배운 내용을 토대로 영화 커뮤니티 웹사이트 제작
+
+독창성을 갖기 위해 인물에 초점을 두어 제작
 
 ✅ 외부 영화 API를 활용하여 DB를 구축
 
@@ -109,7 +112,7 @@
 
 **기간**: 21.07.05 ~ 21.08.20
 
-[Repository](https://github.com/dkdltmais8/Mainproject_WebRTC)  |  [PPT](https://github.com/dkdltmais8/Mainproject_WebRTC/blob/master/%EC%82%B0%EC%B6%9C%EB%AC%BC/%EC%82%B0%EC%B6%9C%EB%AC%BC/B105_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pptx)  |  [UCC(1등)](https://drive.google.com/drive/folders/1QPI3eMmq0VsoNHjY3IHG0TNz6AHxLsPY?usp=sharing)
+[PPT와UCC(1등)](https://drive.google.com/drive/folders/1QPI3eMmq0VsoNHjY3IHG0TNz6AHxLsPY?usp=sharing)
 
 **역할**
 
@@ -121,13 +124,13 @@
 
 디자인(Element-UI, BootstrapVue) 개발
 
-**내용**:
+**내용**
 
 언택트 시대를 맞아 활성화된 메타버스 기술을 도입해 내가 게임 속 캐릭터가 되어 움직이고  화상채팅까지 이용가능한 서비스
 
-**기술스택**: 
+**기술 스택**
 
-Vue, Node.js, Spring, MySQL, Unity, C#, WebRTC, 
+Vuejs, Node.js, Spring, MySQL,Unity, WebRTC   
 
 ✅ 주요 기능: 맵에 맞게 캐릭터가 이동하여 다양한 기능을 수행. 캐릭터 간 화상 통화
 
@@ -145,7 +148,7 @@ Vue, Node.js, Spring, MySQL, Unity, C#, WebRTC,
 
 **기간**: 21.08.30 ~ 21.10.08
 
-[Repository](https://github.com/dkdltmais8/Mainproject_Bigdata)  |  [PPT](https://github.com/dkdltmais8/Mainproject_Bigdata/blob/deploy/%EC%82%B0%EC%B6%9C%EB%AC%BC/B305%20SUB2%20%EB%B0%9C%ED%91%9C.pdf)  |  [UCC](https://drive.google.com/file/d/1zNZzu6GPSkzFELxWPHlHQCw3tBPY2rXe/view?usp=sharing)
+[PPT와UCC](https://drive.google.com/drive/folders/1RhIsC-iP4A1jhJEtuQLmEEZeGA3hSWr_)
 
 **역할**
 
@@ -155,7 +158,7 @@ Vue, Node.js, Spring, MySQL, Unity, C#, WebRTC,
 
 디자인(Material-UI) 개발
 
-**내용**:
+**내용**
 
 사용자의 취향에 맞는 영화들을 추천
 
@@ -165,11 +168,11 @@ MBTI를 활용한 추천 서비스를 제공
 
 데이터 시각화를 활용해 사용자의 취향을 분석해서 보기 쉽게 나타내줌 
 
-**기술스택**: 
+**기술 스택**
 
 React, Django, MySQL, Material-UI, 
 
-Scikit-learn, recharts
+Scikit-learn, Recharts
 
 ✅ 주요 기능: 사용자의 설문 결과를 토대로 영화를 추천해주고 MBTI에 맞게 영화를 추천
 
@@ -182,6 +185,48 @@ Scikit-learn, recharts
 - 영화 상세 페이지에서 출연 배우들과 영화의 트레일러등 다양한 시각적인 정보를 제공
 - 데이터 시각화를 활용해 내가 본 영화들의 국가, 키워드, 장르등을 보기 쉽게 가공
 - 특정 MBTI 그룹군이 좋아하는 영화 목록들을 보여줌
+
+## **삼성청년소프트웨어아카데미(SSAFY) 2학기 자율 프로젝트**
+
+**기간**: 21.10.12 ~ 21.11.19
+
+[PPT와UCC](https://drive.google.com/drive/folders/1UGvvoB2HWtxI1a8yjpYqN43yvl5UYIvW?usp=sharing)
+
+**역할**
+
+기획 및 1차 발표
+
+Unity로 프론트엔드 개발
+
+구글 firebase 연동 로그인 담당
+
+**내용**
+
+구글 로그인으로 편리하게 이용 가능
+
+여행 지역의 문화재, 먹거리, 볼거리 등을
+
+게임을 통해 수집, 도감을 통해 수집한 아이템들을 확인하는 기능
+
+게임과 알찬 정보들로 재밌는 여행을 가능하게 만들어주는 앱
+
+자신을 대표할 캐릭터들의 구매, 뽑기, 레벨업 기능 구현
+
+**기술 스택**
+
+Unity, Spring Boot, MySql, Redis,
+
+✅ 주요 기능: 구글 로그인을 통한 편리한 이용과 AR게임을 통한 여행의 재미 극대화 
+
+- Google과 Firebase를 연동하고 Firebase와 Unity를 연동해 구글 로그인가능
+- Unity Mapbox를 통해 지도를 가져와서 지도 위에 3D로 아이템을 보여줘서 수집 가능
+- 도감에서 수집한 목록을 확인하고 상세 정보를 확인 가능
+
+✅ 추가 기술:
+
+- Redis 캐싱을 통해 데이터를 불러오는 속도를 3배 증가
+- 지도 형태로 아이템 획득률에 따라 색이 다르게 나오고 현재 수집한 양을 %로 표현
+- 캐릭터를 판매하거나 뽑기로 캐릭터를 획득, 달고나를 투자해서 캐릭터 레벨을 올리는 등 아바타 기능
 
 # 🚴‍♂️ Personal Experience & Education
 
@@ -203,7 +248,7 @@ Scikit-learn, recharts
 - 전공 수업 때 아두이노, 라즈베리파이를 다룬 경험
 - 캡스톤디자인으로 Python을 사용
     - IT로 진로를 바꾸게 된 첫 발자국
-    - 결과는 실패였지만 과정에서 얻은 경험은 성공적
+    - 프로그래밍 언어로 어떤 것을 할 수 있는지 느낀 값진 경험
 
 # 🏅 Certificate
 
@@ -212,3 +257,7 @@ Scikit-learn, recharts
 ## 정보처리기사
 
 - 2021.06.02 취득
+
+## UCC우수상
+
+- 2021.08 공통 프로젝트 UCC 경진 대회에서 수상
