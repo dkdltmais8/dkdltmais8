@@ -260,4 +260,6 @@ Unity, Spring Boot, MySql, Redis,
 
 ## UCC우수상
 
-- 2021.08 공통 프로젝트 UCC 경진 대회에서 수상
+- 2021.08 공통 프로젝트 UCC 경진 대회에서 수상 (Meta Study)
+- 2021.11 자율 프로젝트 UCC 경진 대회에서 수상 (Next Place)
+
